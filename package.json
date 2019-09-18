@@ -1,0 +1,23 @@
+{
+  "name": "awesome_chat",
+  "version": "1.0.0",
+  "description": "awesome_chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenThai98/awesome_chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenThai98/awesome_chat/issues"
+  },
+  "homepage": "https://github.com/NguyenThai98/awesome_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
